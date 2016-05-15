@@ -3,3 +3,5 @@ Wiki-View is an application that taps into the Wikipedia API to return either th
 <br>
 <br>
 At the bottom of the page is a buton that will generate and take you to a random Wikipedia article.
+
+To view this web app in action please visit http://www.kcatron.com/WikiView/
